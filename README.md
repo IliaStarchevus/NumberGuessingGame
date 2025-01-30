@@ -11,7 +11,7 @@ All project files are scripted on Python 3.13 in VSCode IDE. All main classes ar
 1. Import project files into your IDE:
 
 ```
-git clone https://github.com/IliaSatrchevus/NumberGuessingGame.git
+git clone https://github.com/IliaStarchevus/NumberGuessingGame.git
 
 ```
 
